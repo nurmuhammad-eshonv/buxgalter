@@ -1,0 +1,9 @@
+h1 {
+  color: rgb(241, 23, 23);
+  font-size: 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 250px;
+}
+body {
+  background-color: aqua;
+}
